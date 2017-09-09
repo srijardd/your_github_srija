@@ -1,0 +1,55 @@
+body{background-image: url("c.jpg");}
+
+.a{width:120%;
+float:left;
+height:40%;
+background-image: url("l.jpg");
+color:black;
+text-align:center;
+}
+
+.b{font-family:"Monotype Corsiva";
+font-weight:bold;
+font-size:100px;
+padding:20px;}
+
+.c{font-family:"Monotype Corsiva";
+font-weight:bold;
+font-size:30px;
+padding:20px;}
+
+.d{
+width:32%;
+float:left;
+color:black;
+text-align:center;
+height:3%;
+font-weight:bold;
+font-size:30px;}
+.e{
+float:left;
+width:2%;}
+
+.f{height:230px;
+width:230px;
+padding:10px;}
+
+.g{height:400px;
+width:1320px;
+}
+
+.w{width:1320px;
+height:400px;}
+
+.di{ width:80%; float:left;}
+.div{width:20%; float:left;}
+
+.x{
+	float:left;
+padding-right:25px;}
+
+.y{
+	font-size:20px;
+	 background-image: url("p.jpg");
+width:1320px;
+color:black;}
