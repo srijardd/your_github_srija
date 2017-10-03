@@ -1,0 +1,45 @@
+.items{
+	
+	float:left;
+	height:100%;
+	width:80%;
+}
+.prin{width:60%; height:100%; float:left;}
+.ans{width:40%; height:100%; float:left;}
+.op{border:2px dotted black;
+ background-color:#E6E6E6;
+padding:15px; }
+.dynamic{
+	
+	
+	height:100%;
+	width:80%;
+}
+.imgsize{
+	height:30%;
+	width:30%;
+}
+
+.cart{
+	
+	float:left;
+	height:100%;
+	width:20%;
+	background-image:bg.jpg;
+}
+.names{
+	float:left;
+	height:10%;
+	width:100%;
+}
+
+.item{
+	float:left;
+	text-align:center;
+	width:30%;
+	color:blue;
+	text-decoration:underline;
+}
+.cart1{
+	width:100%;
+}
